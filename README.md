@@ -1,5 +1,3 @@
-Hello! Thanks for looking at my profile!
-
 I'm Chen, who develops Datapack and tools for Minecraft
 
 If you need me, please contact me via [Twitter DM](https://twitter.com/messages/compose?recipient_id=1281170672702480393)!
