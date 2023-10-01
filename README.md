@@ -1,5 +1,7 @@
 I'm Chen, who develops Datapack and tools for Minecraft
 
+Fav Lang: Scala > TypeScript >> Java
+
 Contacts:
 * [Email](<mailto:scnmed.g@gmail.com>)
 * [Discord](https://discord.com/users/299512294994345985)
